@@ -1,0 +1,27 @@
+
+#bookster-cpsw-settings .inside p.description {
+  margin: 8px 2px 0;
+}
+
+#bookster-cpsw-settings .inside p.description label {
+  cursor: pointer;
+}
+
+#bookster-cpsw-settings .inside p.description span.shortcode {
+  display: block;
+  margin: 2px 0;
+}
+
+#bookster-cpsw-settings .inside p.description span.shortcode input {
+  color: #fff;
+  cursor: pointer;
+}
+
+#bookster-cpsw-settings span.shortcode input[readonly] {
+  background: transparent;
+  font-size: 12px;
+  border: none;
+  box-shadow: none;
+  padding: 4px 8px;
+  margin: 0;
+}
